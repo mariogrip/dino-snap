@@ -23,6 +23,7 @@ parts:
       - libsqlite3-dev
       - libgee-0.8-dev
       - valac
+      - cmake
     stage-packages:
       - libsoup2.4-1
       - libgcrypt20
