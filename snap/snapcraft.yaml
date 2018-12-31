@@ -1,5 +1,5 @@
 name: dino-client
-version: '0.1'
+version: git
 summary: Modern Jabber/XMPP Client using GTK+/Vala
 description: Modern Jabber/XMPP Client using GTK+/Vala
 
